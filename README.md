@@ -2,11 +2,6 @@
 
 ### A public service API all about fictional rooms , users , owners , reviews etc free to use when making your fancy new App, Website or Service.
 
-</br>
-
-> https://pg-connect.herokuapp.com/
-
-<br>
 
 # Build Locally
 
@@ -21,7 +16,7 @@
 ## Request
 
 ```
-https://pg-connect.herokuapp.com/api/v1/rooms/61df4d8a724e9fe6d25f7c22
+https://localhost:3000/api/v1/rooms/61df4d8a724e9fe6d25f7c22
 ```
 
 ## Response
