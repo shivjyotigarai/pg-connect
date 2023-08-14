@@ -18,7 +18,7 @@ https://pg-connect.onrender.com/
 ## Request
 
 ```
-https://localhost:3000/api/v1/rooms/61df4d8a724e9fe6d25f7c22
+https://pg-connect.onrender.com/api/v1/rooms/61df4d8a724e9fe6d25f7c22
 ```
 
 ## Response
